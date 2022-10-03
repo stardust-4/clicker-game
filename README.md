@@ -1,12 +1,10 @@
 # clicker-game
 
-# Project Title
-
 ## Date: 10/3/2022
 
 ### By: John Boyle
 
-### [YouTube](https://www.youtube.com/watch?v=GHk33gqBM1c&list=RDGHk33gqBM1c&start_radio=1) [Facebook](https://www.facebook.com) [GitHub](https://github.com/stardust-4/)
+### [YouTube](https://www.youtube.com/watch?v=2Dx76lD8Scc) [Reddit](https://www.reddit.com/r/incremental_games/comments/1rjn1v/what_mademakes_cookie_clicker_so_successful/) [GitHub](https://github.com/stardust-4/)
 
 ---
 
