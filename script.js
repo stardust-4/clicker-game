@@ -74,6 +74,11 @@ const addHundred = () => {
 const autoClick = () => {
   if (upgrade6activation === true) {
     console.log('autoclicker is activated')
+    const autoIncrement = () => {
+      wallet += 1
+      counter.innerHTML = wallet
+    }
+    setInterval(autoIncrement, 1000)
   }
 }
 
@@ -144,7 +149,7 @@ const activateUpgrade6 = () => {
     counter.innerHTML = wallet
     upgrade6HTML.style.background = 'blue'
     upgrade6HTML.innerHTML = 'upgrade six'
-    upgrade5activation = true
+    upgrade6activation = true
   } else {
     alert('not enough funds')
   }
