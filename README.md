@@ -11,7 +11,7 @@
 
 ### **_Description_**
 
-##### This is my clicker game project. My goal is to create an idler/clicker type of game that allows for a relaxing gameplay that can be done while multitasking.
+##### This is my clicker game project. My goal is to create an idler/clicker type of game that allows for a relaxing gameplay that can be done while multitasking. The goal is to attain the GOLDEN COOKIE
 
 ---
 
@@ -34,7 +34,7 @@
 ![Image](https://i.redd.it/03if0rxyj6t01.png)
 
 
-##### image header 2 ()
+##### image header 2 (https://i.redd.it/ebhsggjtl3n71.jpg)
 
 
 ### **_Future Updates_**
