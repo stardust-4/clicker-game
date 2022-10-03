@@ -48,6 +48,6 @@
 
 ### **_Credits_**
 
-##### Funny Images:
+##### Funny Images: https://www.reddit.com/r/incremental_games/comments/1rjn1v/what_mademakes_cookie_clicker_so_successful/
 
 ---
