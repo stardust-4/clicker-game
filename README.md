@@ -31,8 +31,8 @@
 
 ##### Original Cookie Clicker
 
-![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hdwallpaper.nu%2Fwp-content%2Fuploads%2F2015%2F02%2FFunny-Cat-Hidden.jpg&f=1&nofb=1)
-
+![Image][(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hdwallpaper.nu%2Fwp-content%2Fuploads%2F2015%2F02%2FFunny-Cat-Hidden.jpg&f=1&nofb=1)
+](https://i.redd.it/03if0rxyj6t01.png)
 ##### image header 2 (squirell)
 
 ![Squirell](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthemescompany.com%2Fwp-content%2Fuploads%2F2012%2F01%2FFunny-Animals-Wallpapers-10.jpg&f=1&nofb=1)
