@@ -50,6 +50,33 @@ const addFive = () => {
   }
 }
 
+const addTen = () => {
+  if (upgrade3activation === true) {
+    wallet += 10
+    counter.innerHTML = wallet
+  }
+}
+
+const addFifty = () => {
+  if (upgrade4activation === true) {
+    wallet += 50
+    counter.innerHTML = wallet
+  }
+}
+
+const addHundred = () => {
+  if (upgrade5activation === true) {
+    wallet += 100
+    counter.innerHTML = wallet
+  }
+}
+
+const autoClick = () => {
+  if (upgrade6activation === true) {
+    console.log('autoclicker is activated')
+  }
+}
+
 const activateUpgrade1 = () => {
   if (wallet >= 10) {
     console.log('upgrade1 is linked')
@@ -63,32 +90,65 @@ const activateUpgrade1 = () => {
   }
 }
 const activateUpgrade2 = () => {
-  console.log('upgrade2 is linked')
-  upgrade2HTML.style.background = 'blue'
-  upgrade2HTML.innerHTML = 'upgrade two'
+  if (wallet >= 20) {
+    console.log('upgrade2 is linked')
+    wallet -= 20
+    counter.innerHTML = wallet
+    upgrade2HTML.style.background = 'blue'
+    upgrade2HTML.innerHTML = 'upgrade two'
+    upgrade2activation = true
+  } else {
+    alert('not enough funds')
+  }
 }
 const activateUpgrade3 = () => {
-  console.log('upgrade3 is linked')
-  upgrade3HTML.style.background = 'blue'
-  upgrade3HTML.innerHTML = 'upgrade three'
+  if (wallet >= 50) {
+    console.log('upgrade3 is linked')
+    wallet -= 50
+    counter.innerHTML = wallet
+    upgrade3HTML.style.background = 'blue'
+    upgrade3HTML.innerHTML = 'upgrade three'
+    upgrade3activation = true
+  } else {
+    alert('not enough funds')
+  }
 }
 const activateUpgrade4 = () => {
-  console.log('upgrade4 is linked')
-  upgrade4HTML.style.background = 'blue'
-  upgrade4HTML.innerHTML = 'upgrade four'
+  if (wallet >= 100) {
+    console.log('upgrade4 is linked')
+    wallet -= 100
+    counter.innerHTML = wallet
+    upgrade4HTML.style.background = 'blue'
+    upgrade4HTML.innerHTML = 'upgrade four'
+    upgrade4activation = true
+  } else {
+    alert('not enough funds')
+  }
 }
 const activateUpgrade5 = () => {
-  console.log('upgrade5 is linked')
-  upgrade5HTML.style.background = 'blue'
-  upgrade5HTML.innerHTML = 'upgrade five'
+  if (wallet >= 200) {
+    console.log('upgrade5 is linked')
+    wallet -= 200
+    counter.innerHTML = wallet
+    upgrade5HTML.style.background = 'blue'
+    upgrade5HTML.innerHTML = 'upgrade five'
+    upgrade5activation = true
+  } else {
+    alert('not enough funds')
+  }
 }
 const activateUpgrade6 = () => {
-  console.log('upgrade6 is linked')
-  upgrade6HTML.style.background = 'blue'
-  upgrade6HTML.innerHTML = 'upgrade six'
+  if (wallet >= 500) {
+    console.log('upgrade6 is linked')
+    wallet -= 500
+    counter.innerHTML = wallet
+    upgrade6HTML.style.background = 'blue'
+    upgrade6HTML.innerHTML = 'upgrade six'
+    upgrade5activation = true
+  } else {
+    alert('not enough funds')
+  }
 }
-
-// When the user clicks anywhere outside of the modal, close it
 
 ////////////////////////////////
 // Event Listeners Here
@@ -103,7 +163,7 @@ upgrade4HTML.addEventListener('click', addFifty)
 upgrade4.addEventListener('click', activateUpgrade4)
 upgrade5HTML.addEventListener('click', addHundred)
 upgrade5.addEventListener('click', activateUpgrade5)
-upgrade6HTML.addEventListener('click', autoClicker)
+upgrade6HTML.addEventListener('click', autoClick)
 upgrade6.addEventListener('click', activateUpgrade6)
 
 ////////////////////////////////
