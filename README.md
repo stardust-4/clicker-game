@@ -2,38 +2,34 @@
 
 ## Date: 10/3/2022
 
+
 ### By: John Boyle
 
-### [YouTube](https://www.youtube.com/watch?v=2Dx76lD8Scc) [Reddit](https://www.reddit.com/r/incremental_games/comments/1rjn1v/what_mademakes_cookie_clicker_so_successful/) [GitHub](https://github.com/stardust-4/)
+### [YouTube](https://www.youtube.com/watch?v=GHk33gqBM1c&list=RDGHk33gqBM1c&start_radio=1) [Facebook](https://www.facebook.com) [GitHub](https://github.com/stardust-4/)
 
 ---
 
 ### **_Description_**
 
-##### This is my clicker game project
+##### This is my clicker game project. My goal is to create an idler/clicker type of game that allows for a relaxing gameplay that can be done while multitasking.
 
 ---
 
 ### **_Technologies Used_**
 
-- Item 1
-- Item 2
-  - Sub-item
-
-1. Item 1
-2. Item 2
-
-- Sub-item
+- HTML
+- CSS
+- Javascript
 
 ---
 
 ### **_Getting Started_**
 
----
+## To get started on creating this game, touch a js, and css file. Also open a HTML file and BANG!!!
 
 ### **_screenshots_**
 
-##### image header 1 (funny)
+##### Original Cookie Clicker
 
 ![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.hdwallpaper.nu%2Fwp-content%2Fuploads%2F2015%2F02%2FFunny-Cat-Hidden.jpg&f=1&nofb=1)
 
@@ -43,10 +39,10 @@
 
 ### **_Future Updates_**
 
-- [ ] Future Update 1
-- [x] Future Update 2
-- [x] Completed Update
-- [x] ~~Strikethrough~~ Items Also
+- [ ] "Cookie" increments counter
+- [ ] Upgrades shop is open
+- [ ] Upgrades can be implemented
+- [ ] AutoClicker is running
 
 ---
 
