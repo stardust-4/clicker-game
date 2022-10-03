@@ -33,10 +33,9 @@
 
 ![Image](https://i.redd.it/03if0rxyj6t01.png)
 
-](https://i.redd.it/03if0rxyj6t01.png)
-##### image header 2 (squirell)
 
-![Squirell](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthemescompany.com%2Fwp-content%2Fuploads%2F2012%2F01%2FFunny-Animals-Wallpapers-10.jpg&f=1&nofb=1)
+##### image header 2 ()
+
 
 ### **_Future Updates_**
 
