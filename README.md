@@ -26,6 +26,14 @@
 ### **_Getting Started_**
 
 ## To get started on creating this game, touch a js, and css file. Also open a HTML file and BANG!!!
+##### Link your files in the header, don't forget to defer JS.
+##### Create backgrounds for your html tags in order to see them on the screen.
+##### Creeate variables for HTML elements in Javascript 
+##### Add JS event listener for clicker
+##### Enable a counter in your HTML page that tells how many "cookies" you have
+##### Create second html page displaying the "shop" and add event listener for upgrades
+##### add a theme and style using css
+##### find a collor pallete
 
 ### **_screenshots_**
 
