@@ -48,6 +48,6 @@
 
 ### **_Credits_**
 
-##### Funny Images: [DuckDuckGo Search](http://www.duckduckgo.com)
+##### Funny Images:![Image](https://i.redd.it/03if0rxyj6t01.png)
 
 ---
