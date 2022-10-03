@@ -29,7 +29,7 @@
 
 ### **_screenshots_**
 
-##### Original Cookie Clicker
+##### Original Cookie Clicker allowed you to create new types of cookies which produced more cookies
 
 ![Image](https://i.redd.it/03if0rxyj6t01.png)
 
