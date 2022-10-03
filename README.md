@@ -35,7 +35,7 @@
 ##### add a theme and style using css
 ##### find a collor pallete
 
-### **_screenshots_**
+### **_Inspiration_**
 
 ##### Original Cookie Clicker allowed you to create new types of cookies which produced more cookies
 
