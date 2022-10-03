@@ -34,7 +34,7 @@
 ![Image](https://i.redd.it/03if0rxyj6t01.png)
 
 
-##### image header 2 (https://i.redd.it/ebhsggjtl3n71.jpg)
+##### image header 2 ![Image](https://i.redd.it/ebhsggjtl3n71.jpg)
 
 
 ### **_Future Updates_**
